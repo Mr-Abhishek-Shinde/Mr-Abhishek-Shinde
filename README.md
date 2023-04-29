@@ -1,6 +1,5 @@
 # <span className="wave" style="animation-name: wave-animation; animation-duration: 2.5s; animation-iteration-count: infinite; transform-origin: 70% 70%; display: inline-block;">👋</span> Hello, I'm <span style="font-family: 'Bungee Spice'; font-size: 35px">Abhishek Shinde</span>
 
----
 
 ## Socials:
 #### You can find me on:
@@ -9,7 +8,6 @@
     <a href="https://www.linkedin.com/in/abhishek-shinde-7bb403230/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
 
----
 
 ## Tech Stack:
 #### Here are some of the technologies that I'm familiar with:
@@ -28,15 +26,14 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs">
 </div>
 
----
 
 ## Github Stats:
 #### Here are some stats about my Github profile:
 <div align="center">
     <a href="https://github.com/Mr-Abhishek-Shinde">
-    <a href="https://github.com/Mr-Abhishek-Shinde">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mr-Abhishek-Shinde&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=FFA500&icon_color=F8D866" alt="Abhishek's stats"></a>
     <br> 
     <br>
+    <a href="https://github.com/Mr-Abhishek-Shinde">
     <img src="https://streak-stats.demolab.com/?user=Mr-Abhishek-Shinde&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=FFA500&icon_color=F8D866" alt="Abhishek's Streak"></a>
 </div>
